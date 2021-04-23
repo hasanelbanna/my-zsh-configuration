@@ -1,4 +1,5 @@
 # my vimrc config
+# to have this setup simply copy and paste it to your .vimrc file and source it
 
 syntax on
 

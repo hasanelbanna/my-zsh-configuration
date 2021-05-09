@@ -6,7 +6,7 @@
 # Installation:
 # Open terminal and type
 #       touch crun.sh
-# Then open crun.sh with your prefer editor and copy lines 11-15 from this file and paste it to crun.sh file and save.
+# Then open crun.sh with your prefer editor and copy lines 14-18 from this file and paste it to crun.sh file and save.
 # Go back to terminal and source the file by typing
 #       source crun.sh
 # Godspeed!
